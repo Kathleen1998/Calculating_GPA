@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GPA_Calculator</string>
+    <string name="Header">Calculating Your GPA!</string>
+    <string name="Sub1">Subject 1 Grade</string>
+    <string name="Sub2">Subject 2 Grade</string>
+    <string name="Sub3">Subject 3 Grade</string>
+    <string name="Sub4">Subject 4 Grade</string>
+    <string name="Sub5">Subject 5 Grade</string>
+    <string name="Btn">Calculating GPA</string>
+    <string name="Calculation">Your GPA:</string>
+
+</resources>
